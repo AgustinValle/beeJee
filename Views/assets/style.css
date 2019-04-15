@@ -1,0 +1,10 @@
+.head{
+    width: 100vw;
+    height: 60px;
+    background: #FF6F61;
+    color: white !important;
+    box-shadow: 0 -1px 6px 0 #333;
+}
+a{
+    color: initial !important;
+}
